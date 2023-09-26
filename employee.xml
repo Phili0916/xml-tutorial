@@ -1,0 +1,30 @@
+<employees>
+    <employee id='wd123'>
+        <firstname>Jon</firstname>
+        <lastname>Doe</lastname>
+        <title>Developer</title>
+        <division>Information</division>
+        <office>Paris</office>
+    </employee>
+    <employee id='wd124'>
+        <firstname>Jane</firstname>
+        <lastname>Cooper</lastname>
+        <title>Consultant</title>
+        <division>Communications</division>
+        <office>London</office>
+    </employee>
+    <employee id='wd125'>
+        <firstname>Nick</firstname>
+        <lastname>Smith</lastname>
+        <title>Engineer</title>
+        <division>Information</division>
+        <office>Paris</office>
+    </employee>
+    <employee id='wd126'>
+        <firstname>Sarah</firstname>
+        <lastname>Miller</lastname>
+        <title>Client Advisor</title>
+        <division>Sales</division>
+        <office>London</office>
+    </employee>
+</employees>
